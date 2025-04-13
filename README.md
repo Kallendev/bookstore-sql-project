@@ -87,3 +87,13 @@ The database uses **relational modeling** with foreign key constraints to ensure
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kallendev">
+        <img src="https://avatars.githubusercontent.com/Kallendev" width="80" style="border-radius: 50%;" alt="Kallendev"/><br />
+        <sub><b>Kallendev</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
