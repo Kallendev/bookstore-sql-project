@@ -81,8 +81,8 @@ The database uses **relational modeling** with foreign key constraints to ensure
   <tr>
     <td align="center">
       <a href="https://github.com/Davidngash">
-        <img src="https://avatars.githubusercontent.com/ClimateTech360" width="80" style="border-radius: 50%;" alt="ClimateTech360"/><br />
-        <sub><b>ClimateTech360</b></sub>
+        <img src="https://avatars.githubusercontent.com/Davidngash" width="80" style="border-radius: 50%;" alt="Davidngash"/><br />
+        <sub><b>Davidngash</b></sub>
       </a>
     </td>
   </tr>
