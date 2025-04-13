@@ -65,4 +65,16 @@ The database uses **relational modeling** with foreign key constraints to ensure
 ![bookstore_erd](https://github.com/user-attachments/assets/38961340-0c31-4742-aabd-dcee12ed9f42)
 
 ## CONTRIBUTORS.
-[ClimateTech360](https://github.com/ClimateTech360) – Group member
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ClimateTech360">
+        <img src="https://avatars.githubusercontent.com/ClimateTech360" width="80" style="border-radius: 50%;" alt="ClimateTech360"/><br />
+        <sub><b>ClimateTech360</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
