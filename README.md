@@ -77,4 +77,13 @@ The database uses **relational modeling** with foreign key constraints to ensure
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Davidngash">
+        <img src="https://avatars.githubusercontent.com/ClimateTech360" width="80" style="border-radius: 50%;" alt="ClimateTech360"/><br />
+        <sub><b>ClimateTech360</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
